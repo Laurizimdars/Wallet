@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="home">Home</string>
+    <string name="transaction">Transações</string>
+    <string name="card">Cartões</string>
+    <string name="category">Categorias</string>
+    <string name="select_card">Selecione um cartão</string>
+    <string name="select_category">Selecione uma categoria</string>
+
+</resources>
